@@ -142,7 +142,7 @@ Watch the video above for a complete demonstration of EduConsultPro's features a
 **Manda Veera Venkata Satya Sai Suresh**<br>
 Gayatri Vidya Parishad College of Engineering(A), Visakhapatnam<br>
 Roll Number: 21131A05B1<br>
-Email: 21131A05b1@gvpce.ac.in
+Email: 21131a05b1@gvpce.ac.in
 
 
 ## License
