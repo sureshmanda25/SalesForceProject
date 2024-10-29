@@ -9,7 +9,7 @@ EduConsultPro is a comprehensive Salesforce CRM solution tailored for educationa
 
 ## Demonstration
 
-[![EduConsultPro Demo](http://img.youtube.com/vi/yS1hyQzMzxI/0.jpg)](https://www.youtube.com/watch?v=yS1hyQzMzxI&t=11s "EduConsultPro Demonstration Video")
+[![EduConsultPro Demo](http://img.youtube.com/vi/yS1hyQzMzxI/0.jpg)](https://youtu.be/5Tlo93b40mA "EduConsultPro Demonstration Video")
 
 Watch the video above for a complete demonstration of EduConsultPro's features and functionality.
 ## Key Features
